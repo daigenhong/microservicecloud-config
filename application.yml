@@ -4,14 +4,14 @@
 	- dev
 ---
 spring:	
-	profiles:	dev     #¿ª·¢»·¾³
+	profiles:	dev     #å¼€å‘ç¯å¢ƒ
 	application:	
 	name:	microservicecloud-config-atguigu-dev
 ---
 spring:	
-	profiles:	test     #²âÊÔ»·¾³
+	profiles:	test     #æµ‹è¯•ç¯å¢ƒ
 	application:	
 	name:	microservicecloud-config-atguigu-test
 
-#Çë±£´æÎªutf-8±àÂë¸ñÊ½
+#ï¿½ë±£ï¿½ï¿½Îªutf-8ï¿½ï¿½ï¿½ï¿½ï¿½Ê½
  
